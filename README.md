@@ -18,10 +18,9 @@ I build practical full-stack applications, real-time systems, and cloud-deployed
 
 I am a Computer Science Engineering student at **Thiagarajar College of Engineering**, interested in building real-world software products and improving my skills in development, problem solving, and system design.
 
-* 🎓 B.E. Computer Science and Engineering student at **Thiagarajar College of Engineering**
+* 🎓 B.E. CSE student at **TCE** with **8.39** cgpa
 * 💻 Interested in **Full Stack Development**, **Backend Systems**, **Cloud Computing**, and **AI-based applications**
-* 🏆 Winner of **HackRax 2026 Hackathon - 1st Place**
-* 🚀 Building projects using the **MERN stack** and modern web technologies
+* 🚀 Building projects using modern web technologies
 * 🧠 Learning **Data Structures, Algorithms, System Design, Machine Learning, and Agentic AI**
 * ♟️ Chess enthusiast and consistent learner
 
@@ -120,24 +119,11 @@ An AI-powered GST fraud detection concept that identifies circular trading netwo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karthikeyan-rj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeyan-rj&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeyan-rj&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-rj&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="190" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=karthikeyan-rj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
-
-</div>
----
 
 ## Currently Learning
 
