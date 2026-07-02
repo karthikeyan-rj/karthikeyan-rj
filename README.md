@@ -60,15 +60,7 @@ A real-time collaborative workspace where users can create and join rooms, view 
 
 **Tech Stack:** React, Vite, Node.js, Express.js, Socket.IO, MongoDB, JWT, Cloudinary, Vercel, Render
 
-**Features:**
-
-* Real-time cursor tracking
-* Room creation and password-protected joining
-* Shared canvas and sticky notes
-* Live chat with reply and copy options
-* Room ownership, member control, and kick system
-* JWT authentication
-* Cloud deployment
+**link:**https://multi-cursor-room.vercel.app/
 
 ---
 
@@ -78,14 +70,7 @@ A personal developer portfolio showcasing my skills, projects, certifications, r
 
 **Tech Stack:** React, Vite, CSS, Vercel, Resend API
 
-**Features:**
-
-* Responsive design
-* Project showcase
-* Resume download
-* Contact form integration
-* Smooth animations and clean UI
-
+**link:** https://karthikeyan-rj-portfolio.vercel.app/
 ---
 
 ### TaxLeakDetect
@@ -96,11 +81,38 @@ An AI-powered GST fraud detection concept that identifies circular trading netwo
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
-![Karthikeyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikeyan-rj\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-rj\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=karthikeyan-rj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeyan-rj&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-rj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=karthikeyan-rj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeyan-rj&theme=tokyo-night&hide_border=true" />
+
+</div>
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthikeyan-rj\&theme=tokyonight\&hide_border=true)
 
