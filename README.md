@@ -66,17 +66,22 @@ I am a Computer Science Engineering student at **Thiagarajar College of Engineer
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 </p>
 
----
-
 ## Featured Projects
-
+---
 ### Multiplayer Cursor Room
 
 A real-time collaborative workspace where users can create and join rooms, view live cursors, draw on a shared canvas, use sticky notes, chat, and manage room members.
 
 **Tech Stack:** React, Vite, Node.js, Express.js, Socket.IO, MongoDB, JWT, Cloudinary, Vercel, Render
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Project-00A67E?style=for-the-badge\&logo=vercel\&logoColor=white)](https://multi-cursor-room.vercel.app/)
+<p>
+  <a href="https://multi-cursor-room.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-00A67E?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/karthikeyan-rj/multi-cursor-room">
+    <img src="https://img.shields.io/badge/Open%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -86,7 +91,14 @@ A personal developer portfolio showcasing my skills, projects, certifications, r
 
 **Tech Stack:** React, Vite, CSS, Vercel, Resend API
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Project-00A67E?style=for-the-badge\&logo=vercel\&logoColor=white)](https://karthikeyan-rj-portfolio.vercel.app/)
+<p>
+  <a href="https://karthikeyan-rj-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-00A67E?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/karthikeyan-rj/portfolio-website">
+    <img src="https://img.shields.io/badge/Open%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -95,6 +107,12 @@ A personal developer portfolio showcasing my skills, projects, certifications, r
 An AI-powered GST fraud detection concept that identifies circular trading networks and suspicious shell company clusters using graph-based analysis.
 
 **Focus Areas:** Graph Analytics, Fraud Detection, Machine Learning, Audit Report Generation
+
+<p>
+  <a href="https://github.com/karthikeyan-rj">
+    <img src="https://img.shields.io/badge/Open%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -116,16 +134,9 @@ An AI-powered GST fraud detection concept that identifies circular trading netwo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeyan-rj&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=karthikeyan-rj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
-
 ---
 
 ## Currently Learning
