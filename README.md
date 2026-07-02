@@ -1,54 +1,70 @@
+<div align="center">
+
 # Hi, I'm Karthikeyan R J 👋
 
-## Computer Science Engineering Student | Full Stack Developer | Problem Solver
+### Computer Science Engineering Student | Full Stack Developer | Problem Solver
 
-I am a Computer Science Engineering student at **Thiagarajar College of Engineering**, passionate about building practical software solutions, learning modern technologies, and improving my problem-solving skills through real-world projects.
+I build practical full-stack applications, real-time systems, and cloud-deployed projects with a focus on clean engineering, usability, and continuous learning.
 
-I enjoy working on full-stack applications, real-time systems, cloud-based deployments, and projects that combine strong engineering with useful user experience.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://karthikeyan-rj-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-karthikeyan--rj-181717?style=for-the-badge\&logo=github)](https://github.com/karthikeyan-rj)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:karthikeyanrj@student.tce.edu)
+
+</div>
 
 ---
 
 ## About Me
 
+I am a Computer Science Engineering student at **Thiagarajar College of Engineering**, interested in building real-world software products and improving my skills in development, problem solving, and system design.
+
 * 🎓 B.E. Computer Science and Engineering student at **Thiagarajar College of Engineering**
-* 💻 Interested in **Full Stack Development**, **Cloud Computing**, **Backend Systems**, and **AI-based applications**
+* 💻 Interested in **Full Stack Development**, **Backend Systems**, **Cloud Computing**, and **AI-based applications**
 * 🏆 Winner of **HackRax 2026 Hackathon - 1st Place**
-* 🚀 Currently building real-world projects using the **MERN stack**
-* 🧠 Improving my skills in **Data Structures, Algorithms, System Design, and Software Engineering**
+* 🚀 Building projects using the **MERN stack** and modern web technologies
+* 🧠 Learning **Data Structures, Algorithms, System Design, Machine Learning, and Agentic AI**
 * ♟️ Chess enthusiast and consistent learner
 
 ---
 
 ## Tech Stack
 
-### Programming Languages
+### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ### Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge\&logo=cloudinary\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+</p>
 
 ---
 
@@ -60,7 +76,7 @@ A real-time collaborative workspace where users can create and join rooms, view 
 
 **Tech Stack:** React, Vite, Node.js, Express.js, Socket.IO, MongoDB, JWT, Cloudinary, Vercel, Render
 
-**link:**https://multi-cursor-room.vercel.app/
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Project-00A67E?style=for-the-badge\&logo=vercel\&logoColor=white)](https://multi-cursor-room.vercel.app/)
 
 ---
 
@@ -70,7 +86,8 @@ A personal developer portfolio showcasing my skills, projects, certifications, r
 
 **Tech Stack:** React, Vite, CSS, Vercel, Resend API
 
-**link:** https://karthikeyan-rj-portfolio.vercel.app/
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Project-00A67E?style=for-the-badge\&logo=vercel\&logoColor=white)](https://karthikeyan-rj-portfolio.vercel.app/)
+
 ---
 
 ### TaxLeakDetect
@@ -85,36 +102,29 @@ An AI-powered GST fraud detection concept that identifies circular trading netwo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karthikeyan-rj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=karthikeyan-rj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeyan-rj&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-rj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeyan-rj&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=karthikeyan-rj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-rj&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="190" />
 
 </div>
-
----
-
-## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeyan-rj&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeyan-rj&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthikeyan-rj\&theme=tokyonight\&hide_border=true)
+<img src="https://github-profile-trophy.vercel.app/?username=karthikeyan-rj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
+
+</div>
 
 ---
 
@@ -130,8 +140,8 @@ An AI-powered GST fraud detection concept that identifies circular trading netwo
 
 ## Achievements
 
-* 🥇 HackRax 2026 Hackathon - 1st Place
-* ⚡ IEEE Xtreme Participant
+* 🥇 **HackRax 2026 Hackathon - 1st Place**
+* ⚡ **IEEE Xtreme Participant**
 * 📜 Completed multiple technical certifications through online learning platforms
 * 🚀 Built and deployed full-stack web applications
 
@@ -139,16 +149,24 @@ An AI-powered GST fraud detection concept that identifies circular trading netwo
 
 ## Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-karthikeyan--rj-181717?style=for-the-badge\&logo=github)](https://github.com/karthikeyan-rj)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthikeyan%20R%20J-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-karthikeyanrj%40student.tce.edu-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:karthikeyanrj@student.tce.edu)
+<p>
+  <a href="https://github.com/karthikeyan-rj">
+    <img src="https://img.shields.io/badge/GitHub-karthikeyan--rj-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Karthikeyan%20R%20J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:karthikeyanrj@student.tce.edu">
+    <img src="https://img.shields.io/badge/Email-karthikeyanrj%40student.tce.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Quote I Believe In
+<div align="center">
 
-> Build consistently. Learn deeply. Improve silently. Let the results speak.
-
----
+### Build consistently. Learn deeply. Improve silently. Let the results speak.
 
 Thanks for visiting my profile.
+
+</div>
