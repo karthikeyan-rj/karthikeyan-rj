@@ -31,15 +31,15 @@ My interests include:
 
 ## Technical Skills
 
-**Languages:** C, Java, Python, JavaScript
+**Languages:** Java, Python
 
-**Frontend:** React, Vite, HTML, CSS
+**Frontend:** React, Vite
 
 **Backend:** Node.js, Express.js, REST APIs, Socket.IO
 
-**Databases:** MongoDB, MySQL
+**Databases:** MongoDB
 
-**Tools:** Git, GitHub, Vercel, Render, Cloudinary
+**Tools:** Git, GitHub, Vercel, Render
 
 ---
 
@@ -55,6 +55,16 @@ A real-time collaborative workspace where users can create and join rooms, view 
 
 ---
 
+### ShadowVault
+
+An anime-themed personal finance tracker for managing income, expenses, financial tasks and spending activity through a responsive dashboard inspired by Solo Leveling.
+
+**Technologies:** React, Vite, Node.js, Express, MongoDB, CSS, Vercel and Render
+
+[Live Demo](https://shadow-vault-amber.vercel.app/) · [GitHub Repository](https://github.com/karthikeyan-rj/shadow-vault)
+
+---
+
 ### AssetFlow — Odoo Hackathon 2026
 
 A centralized asset and employee management platform developed for the **Odoo Hackathon 2026**.
@@ -64,16 +74,6 @@ The system helps organizations manage employees, departments, company assets, ro
 **Technologies:** React, Node.js, Express.js, MongoDB and Git
 
 [GitHub Repository](https://github.com/karthikeyan-rj/learn-build)
-
----
-
-### Portfolio Website
-
-A responsive developer portfolio showcasing my projects, technical skills, certifications, resume and contact information.
-
-**Technologies:** React, Vite, CSS, Vercel and Resend API
-
-[Live Demo](https://karthikeyan-rj-portfolio.vercel.app/) · [GitHub Repository](https://github.com/karthikeyan-rj/portfolio-website)
 
 ---
 
