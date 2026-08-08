@@ -2,10 +2,6 @@
 
 # Karthikeyan R J
 
-### Computer Science Engineering Student · Full Stack Developer
-
-I build practical full-stack applications, real-time collaborative systems, and cloud-deployed software.
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square\&logo=vercel\&logoColor=white)](https://karthikeyan-rj-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-karthikeyan--rj-181717?style=flat-square\&logo=github)](https://github.com/karthikeyan-rj)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:karthikeyanrj@student.tce.edu)
@@ -80,7 +76,7 @@ The system helps organizations manage employees, departments, company assets, ro
 ## Achievements
 
 * **1st Place** — HackRax 2026 Hackathon
-* Participated in **IEEE Xtreme**
+* Participated in **IEEE Xtreme** and secured ~1977 global rank
 * Built and deployed multiple full-stack applications
 * Completed professional certifications in full-stack development, cloud computing and artificial intelligence
 
