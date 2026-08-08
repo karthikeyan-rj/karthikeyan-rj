@@ -12,7 +12,7 @@
 
 ## About Me
 
-I am pursuing a **B.E. in Computer Science and Engineering** at **Thiagarajar College of Engineering**, with a CGPA of **8.39**.
+I am pursuing a **B.E. in Computer Science and Engineering** at **Thiagarajar College of Engineering**, with a CGPA of **8.42**.
 
 My interests include:
 
