@@ -14,66 +14,104 @@ B.E. Computer Science and Engineering · Thiagarajar College of Engineering · C
 
 ### 👋 About Me
 
-Computer Science student focused on building practical full-stack applications, backend systems, and real-time platforms. Currently sharpening my skills in **Data Structures & Algorithms, System Design, Machine Learning,** and **Agentic AI**.
+Computer Science student focused on building practical full-stack applications, backend systems, and real-time platforms. Currently sharpening my skills in **Data Structures & Algorithms, System Design.
 
 <br>
 
 ### 🛠️ Tech Stack
 
-| Category | Stack |
-|---|---|
-| **Languages** | Java, Python, JavaScript |
-| **Frontend** | React, Vite, HTML, CSS |
-| **Backend** | Spring Boot, Node.js, Express.js |
-| **Databases** | MongoDB, PostgreSQL, Supabase |
-| **Tools** | Git, GitHub, Vercel |
+<div align="center">
+
+**Languages**
+<img src="https://skillicons.dev/icons?i=java,python,js" />
+
+**Frontend**
+<img src="https://skillicons.dev/icons?i=react,vite,html,css" />
+
+**Backend**
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+
+**Databases**
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
+
+**Tools**
+<img src="https://skillicons.dev/icons?i=git,github,vercel" />
+
+</div>
 
 <br>
 
 ### Projects
 
-**[Multiplayer Cursor Room](https://multi-cursor-room.vercel.app/)** — [Source](https://github.com/karthikeyan-rj/multi-cursor-room)
-Real-time collaborative workspace with live cursor sync, a shared drawing canvas, sticky notes, room chat, and authentication.
-`React` `Vite` `Node.js` `Express.js` `Socket.IO` `MongoDB` `JWT` `Cloudinary`
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**🖱️ Multiplayer Cursor Room**
 
-**[ShadowVault](https://shadow-vault-amber.vercel.app/)** — [Source](https://github.com/karthikeyan-rj/shadow-vault)
-Personal finance app for tracking income, expenses, financial tasks, and spending activity through a responsive dashboard.
-`React` `Vite` `Node.js` `Express.js` `MongoDB` `CSS`
+Real-time collaborative workspace with live cursor sync, shared drawing canvas, sticky notes, and room chat.
 
----
+`React` `Node.js` `Socket.IO` `MongoDB`
 
-**[Placement Portal](https://github.com/karthikeyan-rj/Placement-Portal)** — *currently building*
-Role-based placement communication platform connecting Officers, Coordinators, Representatives, and Students — with announcements, acknowledgement tracking, and CSV reports.
-`Spring Boot` `Java` `PostgreSQL` `Supabase` `REST APIs`
+[![Demo](https://img.shields.io/badge/Live-Demo-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://multi-cursor-room.vercel.app/)
+[![Code](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/karthikeyan-rj/multi-cursor-room)
 
----
+</td>
+<td width="50%" valign="top">
 
-**[AssetFlow](https://github.com/karthikeyan-rj/odoo-hackathon-2026)** — *Odoo Hackathon 2026*
-Centralized platform for managing employees, departments, organizational assets, and asset allocation with role-based workflows.
-`React` `Node.js` `Express.js` `MongoDB`
+**💰 ShadowVault**
+
+Personal finance app for tracking income, expenses, tasks, and spending through a responsive dashboard.
+
+`React` `Node.js` `Express` `MongoDB`
+
+[![Demo](https://img.shields.io/badge/Live-Demo-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://shadow-vault-amber.vercel.app/)
+[![Code](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/karthikeyan-rj/shadow-vault)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Placement Portal** &nbsp;<sub>*building*</sub>
+
+Role-based communication platform connecting Officers, Coordinators, Reps, and Students with acknowledgement tracking.
+
+`Spring Boot` `Java` `PostgreSQL` `Supabase`
+
+[![Code](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/karthikeyan-rj/Placement-Portal)
+
+</td>
+<td width="50%" valign="top">
+
+**📦 AssetFlow** &nbsp;<sub>*Odoo Hackathon 2026*</sub>
+
+Centralized platform for managing employees, departments, and asset allocation with role-based workflows.
+
+`React` `Node.js` `Express` `MongoDB`
+
+[![Code](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/karthikeyan-rj/odoo-hackathon-2026)
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ### 🏆 Achievements
 
-- 1st Place — HackRax 2026 Hackathon
-- IEEE Xtreme Participant — Global Rank ~1977
-- Built and deployed multiple full-stack applications
-- Certified in Full Stack Development, Cloud Computing, and Artificial Intelligence
-
-<br>
-
-### 📚 Currently Learning
-
-Data Structures & Algorithms &nbsp;·&nbsp; Backend Engineering &nbsp;·&nbsp; System Design &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Agentic AI
+- 🥇 1st Place — HackRax 2026 Hackathon
+- 🌐 IEEE Xtreme Participant — Global Rank ~1977
+- ⚙️ Built and deployed multiple full-stack applications
+- 📜 Certified in Full Stack Development, Cloud Computing, and Artificial Intelligence
 
 <br>
 
 <div align="center">
 
 **Thanks for visiting!**
+
+**Let the results speak 😉**
 
 [Portfolio](https://karthikeyan-rj-portfolio.vercel.app/) &nbsp;·&nbsp; [GitHub](https://github.com/karthikeyan-rj) &nbsp;·&nbsp; [Email](mailto:karthikeyanrj@student.tce.edu)
 
