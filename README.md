@@ -1,14 +1,23 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=160&color=0:0F172A,100:334155&text=Karthikeyan%20R%20J&fontColor=F8FAFC&fontSize=40&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineering%20%7C%20Real-Time%20Systems&descSize=16&descAlignY=68&animation=fadeIn" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://karthikeyan-rj-portfolio.vercel.app/"><b>Portfolio</b></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/karthikeyan-rj"><b>GitHub</b></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:karthikeyanrj@student.tce.edu"><b>Email</b></a>
-</p>
+# Karthikeyan R J
+
+### Full Stack Developer · Backend Engineer · Real-Time Systems
+
+B.E. Computer Science and Engineering
+**Thiagarajar College of Engineering**
+
+<br>
+
+<a href="https://karthikeyan-rj-portfolio.vercel.app/"><kbd> Portfolio ↗ </kbd></a>
+  <a href="https://github.com/karthikeyan-rj"><kbd> GitHub ↗ </kbd></a>
+  <a href="mailto:karthikeyanrj@student.tce.edu"><kbd> Email </kbd></a>
+
+</div>
+
+<br>
+
+> Building practical full-stack products with a focus on backend engineering, real-time applications and scalable systems.
 
 ---
 
