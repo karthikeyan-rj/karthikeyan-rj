@@ -2,8 +2,12 @@
 
 # Karthikeyan R J
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Backend+Engineering+%7C+Real-Time+Systems;Building+%E2%80%A2+Learning+%E2%80%A2+Improving" alt="Typing SVG" />
+
+<br/>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square\&logo=vercel\&logoColor=white)](https://karthikeyan-rj-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-karthikeyan--rj-181717?style=flat-square\&logo=github)](https://github.com/karthikeyan-rj)
+[![GitHub](https://img.shields.io/badge/GitHub-karthikeyan--rj-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/karthikeyan-rj)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:karthikeyanrj@student.tce.edu)
 
 </div>
@@ -12,30 +16,19 @@
 
 ## About Me
 
-I am pursuing a **B.E. in Computer Science and Engineering** at **Thiagarajar College of Engineering**, with a CGPA of **8.42**.
+B.E. **Computer Science and Engineering** student at **Thiagarajar College of Engineering** with a CGPA of **8.42**.
 
-My interests include:
-
-* Full Stack Development
-* Backend Engineering
-* Real-Time Applications
-* Cloud Deployment
-* Machine Learning and Agentic AI
-* Data Structures and Algorithms
+I enjoy building practical full-stack applications, backend systems and real-time platforms while continuously improving my knowledge in **DSA, System Design, Machine Learning and Agentic AI**.
 
 ---
 
 ## Technical Skills
 
-**Languages:** Java, Python
-
+**Languages:** Java, Python, JavaScript
 **Frontend:** React, Vite
-
-**Backend:** Node.js, Express.js, REST APIs, Socket.IO
-
-**Databases:** MongoDB
-
-**Tools:** Git, GitHub, Vercel, Render
+**Backend:** Spring Boot, Node.js, Express.js, REST APIs, Socket.IO
+**Databases:** MongoDB, PostgreSQL, Supabase
+**Tools & Deployment:** Git, GitHub, Vercel, Render
 
 ---
 
@@ -43,9 +36,9 @@ My interests include:
 
 ### Multiplayer Cursor Room
 
-A real-time collaborative workspace where users can create and join rooms, view live cursors, draw on a shared canvas, add sticky notes, chat, and manage room members.
+A real-time collaborative workspace where users can create and join rooms, view live cursors, draw on a shared canvas, add sticky notes, chat and manage room members.
 
-**Technologies:** React, Vite, Node.js, Express.js, Socket.IO, MongoDB, JWT and Cloudinary
+**Tech Stack:** React, Vite, Node.js, Express.js, Socket.IO, MongoDB, JWT, Cloudinary
 
 [Live Demo](https://multi-cursor-room.vercel.app/) · [GitHub Repository](https://github.com/karthikeyan-rj/multi-cursor-room)
 
@@ -53,11 +46,23 @@ A real-time collaborative workspace where users can create and join rooms, view 
 
 ### ShadowVault
 
-An anime-themed personal finance tracker for managing income, expenses, financial tasks and spending activity through a responsive dashboard inspired by Solo Leveling.
+A responsive personal finance tracker for managing income, expenses, financial tasks and spending activity through a dashboard inspired by **Solo Leveling**.
 
-**Technologies:** React, Vite, Node.js, Express, MongoDB, CSS, Vercel and Render
+**Tech Stack:** React, Vite, Node.js, Express.js, MongoDB, CSS
 
 [Live Demo](https://shadow-vault-amber.vercel.app/) · [GitHub Repository](https://github.com/karthikeyan-rj/shadow-vault)
+
+---
+
+### Placement Communication Portal
+
+A role-based placement communication platform designed to streamline interactions between **Placement Officers, Placement Coordinators, Placement Representatives and Students**.
+
+Includes targeted announcements, hierarchical communication, role management, acknowledgement tracking and CSV-based acknowledgement reports.
+
+**Tech Stack:** Spring Boot, PostgreSQL, Supabase, REST APIs
+
+[Live Demo](YOUR_GITHUB_REPOSITORY_URL) · [GitHub Repository](YOUR_GITHUB_REPOSITORY_URL)
 
 ---
 
@@ -65,43 +70,50 @@ An anime-themed personal finance tracker for managing income, expenses, financia
 
 A centralized asset and employee management platform developed for the **Odoo Hackathon 2026**.
 
-The system helps organizations manage employees, departments, company assets, role assignments and asset allocation through a structured administrative dashboard.
+Supports employee management, departments, organizational assets, role assignments and asset allocation through a structured administrative dashboard.
 
-**Technologies:** React, Node.js, Express.js, MongoDB and Git
+**Tech Stack:** React, Node.js, Express.js, MongoDB
 
-[GitHub Repository](https://github.com/karthikeyan-rj/learn-build)
+[Live Demo](https://github.com/karthikeyan-rj/learn-build) · [GitHub Repository](https://github.com/karthikeyan-rj/learn-build)
 
 ---
 
 ## Achievements
 
-* **1st Place** — HackRax 2026 Hackathon
-* Participated in **IEEE Xtreme** and secured ~1977 global rank
-* Built and deployed multiple full-stack applications
-* Completed professional certifications in full-stack development, cloud computing and artificial intelligence
+🏆 **1st Place — HackRax 2026 Hackathon**
+
+🌐 **IEEE Xtreme Participant** — Global Rank ~1977
+
+🚀 Built and deployed multiple full-stack applications
+
+📚 Completed certifications in Full Stack Development, Cloud Computing and Artificial Intelligence
 
 ---
 
-## Currently Learning
+## GitHub Activity
 
-* Data Structures and Algorithms
-* Advanced MERN Stack Development
-* System Design
-* Machine Learning
-* Agentic AI
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=karthikeyan-rj&show_icons=true&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-rj&layout=compact&hide_border=true" />
+
+</div>
 
 ---
 
-## Contact
+## Currently Exploring
 
-* **Portfolio:** [karthikeyan-rj-portfolio.vercel.app](https://karthikeyan-rj-portfolio.vercel.app/)
-* **GitHub:** [github.com/karthikeyan-rj](https://github.com/karthikeyan-rj)
-* **Email:** [karthikeyanrj@student.tce.edu](mailto:karthikeyanrj@student.tce.edu)
+`Data Structures & Algorithms` · `System Design` · `Backend Engineering` · `Machine Learning` · `Agentic AI`
 
 ---
 
 <div align="center">
 
-### Build consistently. Learn deeply. Let the results speak.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3500&pause=1500&color=808080&center=true&vCenter=true&width=500&lines=Build+consistently.;Learn+deeply.;Let+the+results+speak." alt="Typing SVG" />
+
+<br/>
+
+**[Portfolio](https://karthikeyan-rj-portfolio.vercel.app/) · [GitHub](https://github.com/karthikeyan-rj) · [Email](mailto:karthikeyanrj@student.tce.edu)**
 
 </div>
