@@ -1,48 +1,36 @@
 <div align="center">
 
-# ⚡ Karthikeyan R J
+# Karthikeyan R J
 
-### Full-Stack Developer • Backend Builder • Real-Time Systems
-
-**I build things that connect, communicate and actually work.**
-
-<br>
+### Full-Stack Developer · Backend Engineering · Real-Time Systems
 
 <a href="https://karthikeyan-rj-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://github.com/karthikeyan-rj">
-  <img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:karthikeyanrj@student.tce.edu">
-  <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-`B.E. Computer Science & Engineering` · `TCE` · `CGPA 8.42`
+B.E. Computer Science and Engineering · Thiagarajar College of Engineering · CGPA 8.42
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Karthikeyan
+## About Me
 
-I'm a Computer Science Engineering student who enjoys taking an idea from
+I am a Computer Science and Engineering student interested in building practical full-stack applications, backend systems and real-time platforms.
 
-**“what if we build this?” → working product → deployed application.**
-
-Most of my work revolves around:
-
-⚡ **Full-Stack Applications**
-🔧 **Backend Engineering**
-🌐 **Real-Time Systems**
-🧠 **Machine Learning & Agentic AI**
-🧩 **Problem Solving & DSA**
+I am currently improving my skills in **Data Structures and Algorithms, System Design, Machine Learning and Agentic AI**.
 
 ---
 
-## 🧰 My Toolbox
+## Tech Stack
 
 <div align="center">
 
@@ -58,7 +46,7 @@ Most of my work revolves around:
 
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 
-### Database
+### Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
 
@@ -70,68 +58,66 @@ Most of my work revolves around:
 
 ---
 
-# 🚀 Things I've Built
+## Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🖱️ Multiplayer Cursor Room
+### Multiplayer Cursor Room
 
-A real-time collaborative workspace where multiple users can interact inside the same room.
+A real-time collaborative workspace where users can create and join rooms, view live cursors, draw on a shared canvas, add sticky notes and communicate through room chat.
 
-**Highlights**
+**Features**
 
-* ⚡ Live cursor synchronization
-* 🎨 Shared drawing canvas
-* 📝 Sticky notes
-* 💬 Real-time chat
-* 👥 Room member management
-* 🔐 Authentication
+* Live cursor synchronization
+* Shared drawing canvas
+* Sticky notes
+* Real-time chat
+* Room member management
+* Authentication
 
-**Built with**
+**Tech Stack**
 
-`React` `Node.js` `Socket.IO`
-`MongoDB` `JWT` `Cloudinary`
+`React` `Vite` `Node.js` `Express.js` `Socket.IO` `MongoDB` `JWT` `Cloudinary`
 
 <br>
 
 <a href="https://multi-cursor-room.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE-DEMO-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Live-Demo-success?style=flat-square" />
 </a>
 <a href="https://github.com/karthikeyan-rj/multi-cursor-room">
-  <img src="https://img.shields.io/badge/SOURCE-CODE-black?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💰 ShadowVault
+### ShadowVault
 
-A Solo Leveling-inspired personal finance dashboard for tracking and understanding spending activity.
+A personal finance application for tracking income, expenses, financial tasks and spending activity through a responsive dashboard.
 
-**Highlights**
+**Features**
 
-* 💸 Income & expense tracking
-* 📊 Financial dashboard
-* ✅ Finance task management
-* 📱 Responsive UI
-* 🎨 Anime-inspired interface
+* Income and expense tracking
+* Financial dashboard
+* Task management
+* Spending overview
+* Responsive interface
 
-**Built with**
+**Tech Stack**
 
-`React` `Vite` `Node.js`
-`Express.js` `MongoDB`
+`React` `Vite` `Node.js` `Express.js` `MongoDB` `CSS`
 
 <br>
 
 <a href="https://shadow-vault-amber.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE-DEMO-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Live-Demo-success?style=flat-square" />
 </a>
 <a href="https://github.com/karthikeyan-rj/shadow-vault">
-  <img src="https://img.shields.io/badge/SOURCE-CODE-black?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github" />
 </a>
 
 </td>
@@ -142,65 +128,63 @@ A Solo Leveling-inspired personal finance dashboard for tracking and understandi
 
 <td width="50%" valign="top">
 
-### 🎓 Placement Portal
+### Placement Portal
 
-> 🚧 **Currently Building**
+**Currently Building**
 
-A structured communication platform connecting Students, Placement Representatives, Placement Coordinators and Placement Officers.
+A role-based placement communication platform connecting Placement Officers, Placement Coordinators, Placement Representatives and Students.
 
-**Highlights**
+**Features**
 
-* 👥 Role-based communication
-* 📢 Targeted announcements
-* 👍 Acknowledgement tracking
-* 📄 CSV acknowledgement reports
-* 🔐 Role-based access
-* 🗃️ PostgreSQL-backed system
+* Role-based communication
+* Targeted announcements
+* Role management
+* Acknowledgement tracking
+* CSV acknowledgement reports
+* Structured placement communication
 
-**Built with**
+**Tech Stack**
 
-`Spring Boot` `Java` `PostgreSQL`
-`Supabase` `REST APIs`
+`Spring Boot` `Java` `PostgreSQL` `Supabase` `REST APIs`
 
 <br>
 
 <a href="https://github.com/karthikeyan-rj/Placement-Portal">
-  <img src="https://img.shields.io/badge/LIVE-PROJECT-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/View-Project-2563EB?style=flat-square" />
 </a>
 <a href="https://github.com/karthikeyan-rj/Placement-Portal">
-  <img src="https://img.shields.io/badge/SOURCE-CODE-black?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📦 AssetFlow
+### AssetFlow
 
 **Odoo Hackathon 2026**
 
 A centralized platform for managing employees, departments, organizational assets and asset allocation.
 
-**Highlights**
+**Features**
 
-* 👨‍💼 Employee management
-* 🏢 Department management
-* 💻 Asset tracking
-* 🔄 Asset allocation
-* 🛡️ Role-based workflows
+* Employee management
+* Department management
+* Asset tracking
+* Asset allocation
+* Role-based workflows
 
-**Built with**
+**Tech Stack**
 
-`React` `Node.js`
-`Express.js` `MongoDB`
+`React` `Node.js` `Express.js` `MongoDB`
 
 <br>
 
 <a href="https://github.com/karthikeyan-rj/odoo-hackathon-2026">
-  <img src="https://img.shields.io/badge/VIEW-PROJECT-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/View-Project-2563EB?style=flat-square" />
 </a>
 <a href="https://github.com/karthikeyan-rj/odoo-hackathon-2026">
-  <img src="https://img.shields.io/badge/SOURCE-CODE-black?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github" />
 </a>
 
 </td>
@@ -210,95 +194,31 @@ A centralized platform for managing employees, departments, organizational asset
 
 ---
 
-# 🏆 Achievement Unlocked
+## Achievements
 
-<div align="center">
-
-## 🥇 1st Place — HackRax 2026
-
-**Hackathon Winner**
-
-`Idea → Build → Demo → Win`
-
-<br>
-
-### ⚔️ IEEE Xtreme
-
-**Global Rank ~1977**
-
-</div>
+* **1st Place — HackRax 2026 Hackathon**
+* **IEEE Xtreme Participant** — Global Rank ~1977
+* Built and deployed multiple full-stack applications
+* Completed certifications in Full Stack Development, Cloud Computing and Artificial Intelligence
 
 ---
 
-## 🧠 What I'm Leveling Up Right Now
+## Currently Learning
 
-```text
-DSA                 █████████░░  Building
-Backend Engineering █████████░░  Building
-System Design       ███████░░░░  Learning
-Machine Learning    ██████░░░░░  Learning
-Agentic AI          ██████░░░░░  Exploring
-```
+* Data Structures and Algorithms
+* Backend Engineering
+* System Design
+* Machine Learning
+* Agentic AI
 
 ---
 
-## 🧩 More About Me
-
-<details>
-<summary><b>⚡ What do I like building?</b></summary>
-
-<br>
-
-Applications where something interesting happens behind the UI — real-time communication, authentication, role-based workflows, backend logic, automation and data-driven systems.
-
-</details>
-
-<details>
-<summary><b>🎯 What am I currently focused on?</b></summary>
-
-<br>
-
-Improving my problem-solving skills through DSA while building stronger backend systems with Java and Spring Boot.
-
-I'm also exploring System Design, Machine Learning and Agentic AI.
-
-</details>
-
-<details>
-<summary><b>🤝 What am I open to?</b></summary>
-
-<br>
-
-Hackathons, interesting development projects, collaborations and opportunities where I can build something meaningful and learn while doing it.
-
-</details>
-
----
-
-## 🌐 Find Me Around The Internet
-
 <div align="center">
 
-<a href="https://karthikeyan-rj-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+### Thanks for visiting.
 
-<a href="https://github.com/karthikeyan-rj">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:karthikeyanrj@student.tce.edu">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### `while(alive) { learn(); build(); improve(); }`
-
-<sub>Thanks for stopping by ⚡</sub>
+<a href="https://karthikeyan-rj-portfolio.vercel.app/">Portfolio</a>
+ ·  <a href="https://github.com/karthikeyan-rj">GitHub</a>
+ ·  <a href="mailto:karthikeyanrj@student.tce.edu">Email</a>
 
 </div>
